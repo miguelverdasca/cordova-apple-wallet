@@ -32,11 +32,6 @@ For more technical information, please check Apple Developer documentation from 
 ## Supporting cordova-apple-wallet
 cordova-apple-wallet is an Open Source (MIT Licensed) project, it's an independent project with ongoing development made possible thanks to the support of our awesome collaborators.
 
-If you think that any information you obtained here is worth of some money and are willing to pay for it, you can give me a cup of coffee ☕ 😉
-
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=hbasheer%40live.com&item_name=Business&currency_code=USD&source=url)
-
 
 ## Installation instructions
 
